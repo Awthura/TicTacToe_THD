@@ -2,8 +2,6 @@
 
 Name - AW THURA
 
-Matriculation Number - 22108220
-
 
 
 **INSTRUCTIONS**
